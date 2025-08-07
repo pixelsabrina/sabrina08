@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia 1',
+    'Como a localização geográfica influencia o desenvolvimento de um País?',
+    'Para facilitar o comércio, o acesso a recursos naturais e influenciar o clima e a agricultura.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Geografia 2',
+    'Quais são os principais biomas o Brasil e qual a impôrtancia delel?',
+    'Amazônia, Cerrado, Caatinga, Mata atlântica, Pampa e Pantanal. São importantes por sua biodiversidade e equilíbrio ambiental.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Georafia 3',
+    'De que forma as atividades humanas impactam o meio ambiente?',
+    'Com desmatamento, poluição, uso excessivo dos recursos e mudança no clima.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia 4',
+    'O que é globalização e como ela afeta as relações entre os países?',
+    'É a integração econômica e cultura entre os paìses. Facilita o comércio, mas também aumenta a competição e desigualdade.'
 )
